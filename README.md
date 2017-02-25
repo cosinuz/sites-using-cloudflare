@@ -80,7 +80,7 @@ Additionally, you can check out [#37](https://github.com/pirate/sites-using-clou
 - coinbase.com
 - bitcoin.de
 - betterment.com
-- transferwise.com
+- transferwise.com ([no leaked data found in several search engine caches](https://transferwise.com/gb/blog/transferwise-cloudflare))
 - prosper.com
 - digitalocean.com ([no leaked data found in several search engine caches](https://www.digitalocean.com/company/blog/digitalocean-your-data-and-the-cloudflare-vulnerability/))
 - patreon.com
